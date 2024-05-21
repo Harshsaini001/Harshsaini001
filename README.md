@@ -3,7 +3,7 @@
 
 ## 🌐 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harsh-saini-734ab6264/)
-[![WEBSITE]](https://harshsaini001.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)](https://harshsaini001.netlify.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.com/sainiharsha001@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/saini.harsh_001/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Sainiharsha001)
